@@ -1,5 +1,10 @@
 
-#Nothing yet
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+pub-sub-test/config.py
 
 
 
